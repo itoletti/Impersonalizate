@@ -1,0 +1,12 @@
+// http://forums.asp.net/t/1840443.aspx?How+to+copy+file+from+network+share+in+VB
+// http://www.codeproject.com/Articles/14358/User-Impersonation-in-NET
+//http://stackoverflow.com/questions/4957522/file-copy-to-file-server-with-network-credential
+
+
+C# -> C api (usar nuget para transformas llamadas a dll del tipo API
+https://sites.google.com/site/robertgiesecke/Home/uploads/unmanagedexports
+
+
+http://elbitcampeador.torreshigueras.es/crear-una-dll-com-en-visual-studio-c-para-que-sea-visible-desde-power-builder-pb/
+http://www.codeproject.com/Articles/408619/PowerBuilder-Using-Csharp-Visual-Objects-in-PB-Cla
+http://stackoverflow.com/questions/34306591/use-c-sharp-created-dll-in-powerbuilder-12-5-2
